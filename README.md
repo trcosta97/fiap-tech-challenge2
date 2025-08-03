@@ -9,7 +9,7 @@
 
 ## Descrição do Projeto
 
-Este projeto apresenta uma análise exploratória de dados históricos do IBOVESPA (Índice Bovespa) dos últimos 5 anos. O objetivo é compreender o comportamento do principal índice da bolsa de valores brasileira através de visualizações e análises estatísticas.
+Este projeto apresenta uma análise exploratória de dados históricos do IBOVESPA (Índice Bovespa) dos últimos 5 anos. O objetivo desenvolver um modelo de anaálise preditiva capaz de prever se a variação do índice vai ser positivo ou negativo no dia seguinte através de visualizações e análises estatísticas.
 
 ## Estrutura do Projeto
 
@@ -81,18 +81,5 @@ pip install pandas matplotlib seaborn numpy jupyter
 jupyter notebook notebook.ipynb
 ```
 
-## Resultados
 
-A análise revelou que o IBOVESPA apresentou:
-- Comportamento típico de mercado financeiro com alta volatilidade
-- Períodos de alta e baixa bem definidos
-- Volume de negociação variável ao longo do período
-- Tendências de longo prazo identificáveis através dos gráficos
-
-## Próximos Passos
-
-- Implementação de modelos preditivos
-- Análise de correlação com outros indicadores econômicos
-- Desenvolvimento de estratégias de investimento baseadas nos dados
-- Análise de sazonalidade
 
