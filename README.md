@@ -9,7 +9,7 @@
 
 ## Descrição do Projeto
 
-Este projeto apresenta uma análise exploratória de dados históricos do IBOVESPA (Índice Bovespa) dos últimos 5 anos. O objetivo desenvolver um modelo de anaálise preditiva capaz de prever se a variação do índice vai ser positivo ou negativo no dia seguinte através de visualizações e análises estatísticas.
+Este projeto apresenta uma análise exploratória de dados históricos do IBOVESPA (Índice Bovespa) dos últimos 5 anos. O objetivo é desenvolver um modelo de análise preditiva capaz de prever se a variação do índice vai ser positiva ou negativa no dia seguinte através de visualizações e análises estatísticas.
 
 ## Estrutura do Projeto
 
@@ -18,7 +18,8 @@ tech2/
 ├── README.md
 ├── notebook.ipynb
 ├── dados_historicos_ibovespa_5_anos.csv
-└── Links.txt
+|── Links.txt
+└── Relatório - Tech challenge Fase 2[v4].pdf
 ```
 
 ## Dataset
@@ -82,4 +83,6 @@ jupyter notebook notebook.ipynb
 ```
 
 
+## Licença
 
+Este projeto é desenvolvido para fins acadêmicos como parte do Tech Challenge 2.
